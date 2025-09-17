@@ -1,0 +1,119 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+aito1238,Aiton,,26.5145,92.3169,aito1238,,159,language,Tai-Kadai,languages
+amri1238,Amri Karbi,,26.024,91.482,amri1238,,199,language,Sino-Tibetan,languages
+anga1288,Angami Naga,,25.6841,93.8668,anga1288,,188 193,language,Sino-Tibetan,languages
+aona1235,Ao Naga,,26.3241,94.3824,aona1235,,189,language,Sino-Tibetan,languages
+assa1263,Assamese,,26.0876,91.2932,assa1263,,62 262 263,language,Indo-European,languages
+asur1254,Asuri,,21.5721,83.4562,asur1254,,99,language,Austroasiatic,languages
+awad1243,Awadhi,,27.5907,82.4663,awad1243,,256,language,Indo-European,languages
+bagh1251,Bagheli,,24.6837,87.4994,bagh1251,,257 258 259,language,Indo-European,languages
+beng1280,Bengali,,24.0,90.0,beng1280,,19 61 216 218 219 220 221 222 223 224,language,Indo-European,languages
+bhad1241,Bhadrawahi,,33.2851,75.8707,bhad1241,,127 128,language,Indo-European,languages
+bhil1251,Bhili,,20.85,73.9592,bhil1251,,58,language,Indo-European,languages
+bhoj1244,Bhojpuri,,26.458455,84.817115,bhoj1244,,1 2 3 4 21 64,language,Indo-European,languages
+birh1242,Birhor,,23.585,85.5611,birh1242,,106,language,Austroasiatic,languages
+bodo1269,Bodo-Mech,,26.1,92.0,bodo1269,,39 40 41 43 45 132 142 143 145 148 149,language,Sino-Tibetan,languages
+brah1256,Brahui,,29.04,66.56,brah1256,,183,language,Dravidian,languages
+braj1242,Braj,,26.4758,78.0813,braj1242,,23,language,Indo-European,languages
+bund1253,Bundeli,,24.8982,78.9542,bund1253,,26,language,Indo-European,languages
+chak1266,Chakma,,23.00148,92.339,chak1266,,217,language,Indo-European,languages
+cham1307,Chambeali,,32.5476,76.1796,cham1307,,124,language,Indo-European,languages
+chha1249,Chhattisgarhi,,20.3601,82.0483,chha1249,,260 261,language,Indo-European,languages
+chur1258,Churahi,,32.8969,76.1124,chur1258,,125,language,Indo-European,languages
+deor1238,Deori,,26.86152,93.70572,deor1238,,129 130,language,Sino-Tibetan,languages
+dhat1238,Dhatki,,26.4156,70.7826,dhat1238,,73,language,Indo-European,languages
+dhun1238,Dhundari,,26.473,76.198,dhun1238,,78,language,Indo-European,languages
+dima1251,Dimasa,,25.4198,93.1806,dima1251,,131 136,language,Sino-Tibetan,languages
+dogr1250,Dogri,,32.5534,75.7111,dogr1250,,225,language,Indo-European,languages
+gadd1242,Gaddi,,32.36,76.5713,gadd1242,,123,language,Indo-European,languages
+garh1243,Garhwali,,30.5061,78.7201,garh1243,,8 9 10 11 12 13 14 15 16 17,language,Indo-European,languages
+garo1247,Garo,,25.2954,90.462,garo1247,,133 137 141 144 146,language,Sino-Tibetan,languages
+godw1241,Godwari,,24.885,72.846,godw1241,,69,language,Indo-European,languages
+guja1252,Gujarati,,22.687,71.0962,guja1252,,59,language,Indo-European,languages
+hado1235,Hadothi,,24.8546,75.8366,hado1235,,77,language,Indo-European,languages
+halb1244,Halbi,,20.3081,81.3742,halb1244,,28,language,Indo-European,languages
+hary1238,Haryanvi,,29.0166,76.0432,hary1238,,24,language,Indo-European,languages
+hind1269,Hindi,,25.0,77.0,hind1269,,25,language,Indo-European,languages
+ishk1246,Ishkashimi,,36.67,71.55,ishk1246,,204,language,Indo-European,languages
+jaun1243,Jaunsari,,30.5587,77.9084,jaun1243,,114,language,Indo-European,languages
+juan1238,Juang,,21.2606,85.5845,juan1238,,93 252,language,Austroasiatic,languages
+kach1277,Kachchi,,23.83,69.0,kach1277,,108,language,Indo-European,languages
+kach1280,Southern Jinghpaw,,25.4634,97.3278,kach1280,,42 48 49,language,Sino-Tibetan,languages
+kana1281,Kanauji,,27.1074,79.2883,kana1281,,22,language,Indo-European,languages
+kang1280,Kangri,,31.915,76.366,kang1280,,226,language,Indo-European,languages
+karb1241,Hills Karbi,,25.7317,93.0462,karb1241,,196 198,language,Sino-Tibetan,languages
+kash1277,Kashmiri,,34.166825,74.330455,kash1277,,29 30 31 271,language,Indo-European,languages
+kham1290,Khamti,,27.6653,97.0359,kham1290,,50 51 150 154 155 156 157,language,Tai-Kadai,languages
+khan1272,Khandesi,,21.3181,74.142,khan1272,,265,language,Indo-European,languages
+khar1287,Kharia,,22.3571,84.3922,khar1287,,94 243,language,Austroasiatic,languages
+khas1269,Khasi,,24.977,91.9998,khas1269,,241 251 267,language,Austroasiatic,languages
+khez1235,Khezha Naga,,25.7078,94.3114,khez1235,,186,language,Sino-Tibetan,languages
+khow1242,Khowar,,36.0,72.0,khow1242,,268,language,Indo-European,languages
+kokb1239,Kok Borok,,23.1916,91.4673,kokb1239,,138,language,Sino-Tibetan,languages
+kork1243,Korku,,21.8358,77.5541,kork1243,,95 255,language,Austroasiatic,languages
+korw1242,Korwa,,23.4102,83.8142,korw1242,,98,language,Austroasiatic,languages
+kuii1252,Kui (India),,19.2043,83.5859,kuii1252,,171,language,Dravidian,languages
+kull1236,Kullu Pahari,,31.8339,77.3772,kull1236,,118 119 120,language,Indo-European,languages
+kuma1273,Kumaoni,,29.5622,80.0171,kuma1273,,18,language,Indo-European,languages
+kuru1301,Kurukh,,24.46442,86.46568,kuru1301,,172,language,Dravidian,languages
+lasi1242,Lasi,,25.3293,66.9137,lasi1242,,112,language,Indo-European,languages
+loth1237,Lotha Naga,,26.01396,94.04355,loth1237,,190,language,Sino-Tibetan,languages
+maga1260,Magahi,,25.0915,85.3335,maga1260,,6 7,language,Indo-European,languages
+maha1287,Mahasu Pahari,,31.0088,77.5317,maha1287,,116 117 122,language,Indo-European,languages
+mait1250,Maithili,,26.3817,86.2211,mait1250,,5,language,Indo-European,languages
+mala1464,Malayalam,,9.59208,76.7651,mala1464,,168 169,language,Dravidian,languages
+malp1246,Mar Paharia of Dumka,,24.087,87.3507,malp1246,,20,language,Indo-European,languages
+malv1243,Malvi,,23.488,75.562,malv1243,,71,language,Indo-European,languages
+mand1409,Mandeali,,31.5425,77.0419,mand1409,,121,language,Indo-European,languages
+maon1238,Mao Naga,,25.3836,94.0035,maon1238,,192,language,Sino-Tibetan,languages
+mara1378,Marathi,,17.9344,76.6665,mara1378,,65,language,Indo-European,languages
+mara1379,Maram Naga,,25.4378,94.2205,mara1379,,194,language,Sino-Tibetan,languages
+mari1416,Maring Naga,,24.2854,94.0723,mari1416,,187,language,Sino-Tibetan,languages
+marw1256,Marwari (Pakistan),,28.3242,71.5671,marw1256,,53,language,Indo-European,languages
+marw1260,Marwari (India),,27.002,75.0656,marw1260,,68 75,language,Indo-European,languages
+mewa1249,Mewari,,24.57,73.68,mewa1249,,70,language,Indo-European,languages
+mewa1250,Mewati,,27.736,76.947,mewa1250,,74,language,Indo-European,languages
+monn1252,Mon,,15.49394,98.122465,monn1252,,240 250,language,Austroasiatic,languages
+mund1320,Mundari,,23.03,85.85,mund1320,,97 100 242 244 247,language,Austroasiatic,languages
+munj1244,Munji,,35.9321,70.9404,munj1244,,203,language,Indo-European,languages
+nima1243,Nimadi,,22.1263,76.1264,nima1243,,72 266,language,Indo-European,languages
+nort2646,Northern Pashto,,34.0,71.33,nort2646,,209,language,Indo-European,languages
+nort2662,Northern Hindko,,34.3202,73.3844,nort2662,,88,language,Indo-European,languages
+nort2699,Northwestern Kolami,,20.1022,78.4934,nort2699,,181,language,Dravidian,languages
+nort2702,Northern Gondi,,18.1632,81.3842,nort2702,,173 174 175 176 177 178 179 180 182,language,Dravidian,languages
+nucl1305,Kannada,,13.5878,76.1198,nucl1305,,164,language,Dravidian,languages
+nucl1310,Burmese,,20.7926,93.9665,nucl1310,,34,language,Sino-Tibetan,languages
+oriy1255,Odia,,21.0,85.0,oriy1255,,63,language,Indo-European,languages
+ormu1247,Ormuri,,32.6819,69.3444,ormu1247,,206 207 208,language,Indo-European,languages
+paha1251,Pahari Potwari,,33.6424,73.8071,paha1251,,79 80 81 82 83 84,language,Indo-European,languages
+pang1282,Pangwali,,32.9753,76.5569,pang1282,,126,language,Indo-European,languages
+panj1256,Eastern Panjabi,,30.0368,75.6702,panj1256,,54 227 228 229 230 231 232 233,language,Indo-European,languages
+phak1238,Phake,,27.8197,95.8131,phak1238,,158,language,Tai-Kadai,languages
+rabh1238,Rabha,,25.8248,91.1689,rabh1238,,134 139,language,Sino-Tibetan,languages
+rang1266,Rangkas,,29.2278,80.0845,rang1266,,245 246 249,language,Sino-Tibetan,languages
+rong1266,Rongmei Naga,,25.098,93.7869,rong1266,,195,language,Sino-Tibetan,languages
+sant1410,Santali,,25.0317,87.8185,sant1410,,101 102 103 104 105 107,language,Austroasiatic,languages
+sari1246,Sarikoli,,37.905,75.1449,sari1246,,201,language,Indo-European,languages
+saur1249,Sauria Paharia,,24.8124,87.6432,saur1249,,170,language,Dravidian,languages
+sera1259,Saraiki,,29.5534,71.906,sera1259,,89 90 91 92 113,language,Indo-European,languages
+shan1277,Shan,,21.5995,98.0342,shan1277,,151 152 153,language,Tai-Kadai,languages
+shek1243,Shekhawati,,27.34,75.407,shek1243,,76,language,Indo-European,languages
+shin1264,Shina,,34.6515,75.287,shin1264,,269,language,Indo-European,languages
+shug1248,Shughni,,37.5018,71.7925,shug1248,,205,language,Indo-European,languages
+sind1272,Sindhi,,26.0,69.0,sind1272,,67 109 111,language,Indo-European,languages
+sirm1239,Sirmauri,,31.1,77.17,sirm1239,,115,language,Indo-European,languages
+sora1254,Sora,,19.1213,84.19,sora1254,,96 254,language,Austroasiatic,languages
+sout2668,Southern Hindko,,33.2122,72.1702,sout2668,,85 86 87,language,Indo-European,languages
+sout2732,Southern Rengma Naga,,26.1178,94.6853,sout2732,,191,language,Sino-Tibetan,languages
+tami1289,Tamil,,10.520219,78.825989,tami1289,,162 163,language,Dravidian,languages
+telu1262,Telugu,,16.4529,78.7024,telu1262,,184,language,Dravidian,languages
+tiwa1253,Tiwa (India),,26.0667,92.2583,tiwa1253,,135 200,language,Sino-Tibetan,languages
+tulu1258,Tulu,,12.8114,75.2651,tulu1258,,167,language,Dravidian,languages
+wakh1245,Wakhi,,37.1768,73.9777,wakh1245,,202,language,Indo-European,languages
+west2386,Western Panjabi,,30.0948,75.3474,west2386,,66,language,Indo-European,languages
+zeme1240,Zeme Naga,,25.3499,93.6463,zeme1240,,197,language,Sino-Tibetan,languages
+aust1305,Austroasiatic,,,,aust1305,,93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 240 241 242 243 244 247 250 251 252 253 254 255 267,family,,families
+drav1251,Dravidian,,,,drav1251,,162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184,family,,families
+indo1319,Indo-European,,,,indo1319,,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 108 109 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 256 257 258 259 260 261 262 263 264 265 266 268 269 270 271,family,,families
+sino1245,Sino-Tibetan,,,,sino1245,,33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 161 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 245 246 248 249,family,,families
+taik1256,Tai-Kadai,,,,taik1256,,50 51 150 151 152 153 154 155 156 157 158 159 160,family,,families

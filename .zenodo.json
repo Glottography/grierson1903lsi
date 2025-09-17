@@ -1,0 +1,23 @@
+{
+    "creators": [
+        {
+            "name": "The Glottography Consortium"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "glottography"
+        }
+    ],
+    "title": "Glottography dataset derived from Grierson's Linguistic Survey of India",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Generic",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Linguistic survey of India / [compiled and edited] by George Abraham Grierson. Calcutta : Office of the Superintendent of Government Printing, India, 1903-1928. 11 v. in 20 : maps (part fold.) ; 36 cm.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

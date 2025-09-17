@@ -1,0 +1,272 @@
+id,name,glottocode,year,map_name_full
+1,Bhojpuri,bhoj1244,1903,MAP Illustrating the Dialects and Sub-dialects of the Bihari language
+2,Northern Standard Bhojpuri,nort2656,1903,MAP Illustrating the Dialects and Sub-dialects of the Bihari language
+3,Western Standard Bhojpuri,west2379,1903,MAP Illustrating the Dialects and Sub-dialects of the Bihari language
+4,Southern Standard Bhojpuri,sout2661,1903,MAP Illustrating the Dialects and Sub-dialects of the Bihari language
+5,Maithili,mait1250,1903,MAP Illustrating the Dialects and Sub-dialects of the Bihari language
+6,Magahi,maga1260,1903,MAP Illustrating the Dialects and Sub-dialects of the Bihari language
+7,Magahi,maga1260,1903,MAP Illustrating the Dialects and Sub-dialects of the Bihari language
+8,Garhwali,garh1243,1903,Map Illustrating the CENTRAL PAHARI LANGUAGES AND DIALECTS.
+9,Majh-Kumaiya,majh1251,1903,Map Illustrating the CENTRAL PAHARI LANGUAGES AND DIALECTS.
+10,Badhani,badh1238,1903,Map Illustrating the CENTRAL PAHARI LANGUAGES AND DIALECTS.
+11,Dasauiya,dess1238,1903,Map Illustrating the CENTRAL PAHARI LANGUAGES AND DIALECTS.
+12,Nagpurija,nagp1247,1903,Map Illustrating the CENTRAL PAHARI LANGUAGES AND DIALECTS.
+13,Lohbya,lohb1238,1903,Map Illustrating the CENTRAL PAHARI LANGUAGES AND DIALECTS.
+14,Salani,sala1263,1903,Map Illustrating the CENTRAL PAHARI LANGUAGES AND DIALECTS.
+15,Srinagariya,srin1238,1903,Map Illustrating the CENTRAL PAHARI LANGUAGES AND DIALECTS.
+16,Tehri,tehr1243,1903,Map Illustrating the CENTRAL PAHARI LANGUAGES AND DIALECTS.
+17,Rathi,rath1241,1903,Map Illustrating the CENTRAL PAHARI LANGUAGES AND DIALECTS.
+18,Kumauni,kuma1273,1903,Map Illustrating the CENTRAL PAHARI LANGUAGES AND DIALECTS.
+19,Bengali (Western Dialect),beng1280,1903,DISTRICT SONTHAL PARGANAS SHOWING THE DISTRIBUTION OF THE ARYAN LANGUAGES OF THE DISTRICT
+20,Mal-Paharia,malp1246,1903,DISTRICT SONTHAL PARGANAS SHOWING THE DISTRIBUTION OF THE ARYAN LANGUAGES OF THE DISTRICT
+21,Bihari,bhoj1244,1903,DISTRICT SONTHAL PARGANAS SHOWING THE DISTRIBUTION OF THE ARYAN LANGUAGES OF THE DISTRICT
+22,Kanauji,kana1281,1903,Map ILLUSTTRATING THE DIALECTS AND SUB-DIALECTS OF THE WESTERN HINDI LANGUAGE.
+23,Braj Bhakha,braj1242,1903,Map ILLUSTTRATING THE DIALECTS AND SUB-DIALECTS OF THE WESTERN HINDI LANGUAGE.
+24,Bangaru,hary1238,1903,Map ILLUSTTRATING THE DIALECTS AND SUB-DIALECTS OF THE WESTERN HINDI LANGUAGE.
+25,Vernacular Hindostani,hind1269,1903,Map ILLUSTTRATING THE DIALECTS AND SUB-DIALECTS OF THE WESTERN HINDI LANGUAGE.
+26,Bundeli,bund1253,1903,Map ILLUSTTRATING THE DIALECTS AND SUB-DIALECTS OF THE WESTERN HINDI LANGUAGE.
+27,"Varhadi, Nagpuri, Desi, Konkan Standard",mode1268,1903,Map ILLUSTRATING THE DIALECTS OF MARATHI
+28,Halbi,halb1244,1903,Map ILLUSTRATING THE DIALECTS OF MARATHI
+29,Kashmiri,kash1277,1903,MAP OF THE AREA IN WHICH THE KASHMIRI LANGUAGE IS SPOKEN
+30,Kashtawari,kish1245,1903,MAP OF THE AREA IN WHICH THE KASHMIRI LANGUAGE IS SPOKEN
+31,Poguli,pogu1238,1903,MAP OF THE AREA IN WHICH THE KASHMIRI LANGUAGE IS SPOKEN
+32,North Assam Branch,,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
+33,Lolo Group,lolo1267,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
+34,Burma Group,nucl1310,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
+35,East Tibetan,east2771,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
+36,Naga Group,aoic1235,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
+37,Naga Group,aoic1235,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
+38,Kuki-Chin Group,kuki1246,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
+39,Bara Group,bodo1269,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
+40,Bara Group,bodo1269,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
+41,Bara Group,bodo1269,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
+42,Kachin Group,kach1280,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
+43,Bara Group,bodo1269,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
+44,Himalayan Group,hima1249,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
+45,Bara Group,bodo1269,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
+46,Central Tibetan,cent2346,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
+47,West Tibetan,laha1255,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
+48,Kachin (fringe area),kach1280,1903,Map of the DIALECTS OF THE KACHIN GROUP OF THE TIBETO-BURMAN FAMILY
+49,Kachin,kach1280,1903,Map of the DIALECTS OF THE KACHIN GROUP OF THE TIBETO-BURMAN FAMILY
+50,Khamti,kham1290,1903,Map of the DIALECTS OF THE KACHIN GROUP OF THE TIBETO-BURMAN FAMILY
+51,Khamti,kham1290,1903,Map of the DIALECTS OF THE KACHIN GROUP OF THE TIBETO-BURMAN FAMILY
+52,Khas-Kura,east1436,1903,The Indo-Aryan Languages
+53,Rajasthani,marw1256,1903,The Indo-Aryan Languages
+54,Panjabi,panj1256,1903,The Indo-Aryan Languages
+55,Central Pahari,cent1977,1903,The Indo-Aryan Languages
+56,Western Pahari,cent1977,1903,The Indo-Aryan Languages
+57,Western Hindi,west2812,1903,The Indo-Aryan Languages
+58,Bhili,bhil1251,1903,The Indo-Aryan Languages
+59,Gujarati,guja1252,1903,The Indo-Aryan Languages
+60,Eastern Hindi,east2726,1903,The Indo-Aryan Languages
+61,Bengali,beng1280,1903,The Indo-Aryan Languages
+62,Assamese,assa1263,1903,The Indo-Aryan Languages
+63,Oriya,oriy1255,1903,The Indo-Aryan Languages
+64,Bihari,bhoj1244,1903,The Indo-Aryan Languages
+65,Marathi,mara1378,1903,The Indo-Aryan Languages
+66,Lahnda,west2386,1903,The Indo-Aryan Languages
+67,Sindhi,sind1272,1903,The Indo-Aryan Languages
+68,Standard Marwari,marw1260,1903,Map ILLUSTRATING THE LOCALITIES IN WHICH THE DIALECTS OF THE RAJASTHANI LANGUAGE ARE SPOKEN
+69,Godwari,godw1241,1903,Map ILLUSTRATING THE LOCALITIES IN WHICH THE DIALECTS OF THE RAJASTHANI LANGUAGE ARE SPOKEN
+70,Mewari,mewa1249,1903,Map ILLUSTRATING THE LOCALITIES IN WHICH THE DIALECTS OF THE RAJASTHANI LANGUAGE ARE SPOKEN
+71,Malvi,malv1243,1903,Map ILLUSTRATING THE LOCALITIES IN WHICH THE DIALECTS OF THE RAJASTHANI LANGUAGE ARE SPOKEN
+72,Nimari,nima1243,1903,Map ILLUSTRATING THE LOCALITIES IN WHICH THE DIALECTS OF THE RAJASTHANI LANGUAGE ARE SPOKEN
+73,Dhatki,dhat1238,1903,Map ILLUSTRATING THE LOCALITIES IN WHICH THE DIALECTS OF THE RAJASTHANI LANGUAGE ARE SPOKEN
+74,Mewati,mewa1250,1903,Map ILLUSTRATING THE LOCALITIES IN WHICH THE DIALECTS OF THE RAJASTHANI LANGUAGE ARE SPOKEN
+75,"Bikaneri, Thali, Marwari",marw1260,1903,Map ILLUSTRATING THE LOCALITIES IN WHICH THE DIALECTS OF THE RAJASTHANI LANGUAGE ARE SPOKEN
+76,Shekawati,shek1243,1903,Map ILLUSTRATING THE LOCALITIES IN WHICH THE DIALECTS OF THE RAJASTHANI LANGUAGE ARE SPOKEN
+77,Harauti,hado1235,1903,Map ILLUSTRATING THE LOCALITIES IN WHICH THE DIALECTS OF THE RAJASTHANI LANGUAGE ARE SPOKEN
+78,"Standard Jaipuri, Rjawati, etc.",dhun1238,1903,Map ILLUSTRATING THE LOCALITIES IN WHICH THE DIALECTS OF THE RAJASTHANI LANGUAGE ARE SPOKEN
+79,North-Eastern Dialect,paha1251,1903,MAP ILLUSTTRATING THE DIALECTS AND SUB-DIALECTS OF LAHNDA OR WESTERN PANJABI LANGUAGE.
+80,Pothwari,poth1238,1903,MAP ILLUSTTRATING THE DIALECTS AND SUB-DIALECTS OF LAHNDA OR WESTERN PANJABI LANGUAGE.
+81,Pahari,paha1252,1903,MAP ILLUSTTRATING THE DIALECTS AND SUB-DIALECTS OF LAHNDA OR WESTERN PANJABI LANGUAGE.
+82,Puncchi,punc1240,1903,MAP ILLUSTTRATING THE DIALECTS AND SUB-DIALECTS OF LAHNDA OR WESTERN PANJABI LANGUAGE.
+83,Chhibhali,chib1247,1903,MAP ILLUSTTRATING THE DIALECTS AND SUB-DIALECTS OF LAHNDA OR WESTERN PANJABI LANGUAGE.
+84,Chhibhali,chib1247,1903,MAP ILLUSTTRATING THE DIALECTS AND SUB-DIALECTS OF LAHNDA OR WESTERN PANJABI LANGUAGE.
+85,North-Western Dialect,sout2668,1903,MAP ILLUSTTRATING THE DIALECTS AND SUB-DIALECTS OF LAHNDA OR WESTERN PANJABI LANGUAGE.
+86,Awankari,avan1234,1903,MAP ILLUSTTRATING THE DIALECTS AND SUB-DIALECTS OF LAHNDA OR WESTERN PANJABI LANGUAGE.
+87,Ghebi,gheb1234,1903,MAP ILLUSTTRATING THE DIALECTS AND SUB-DIALECTS OF LAHNDA OR WESTERN PANJABI LANGUAGE.
+88,North-Western Dialect,nort2662,1903,MAP ILLUSTTRATING THE DIALECTS AND SUB-DIALECTS OF LAHNDA OR WESTERN PANJABI LANGUAGE.
+89,Southern Dialect,sera1259,1903,MAP ILLUSTTRATING THE DIALECTS AND SUB-DIALECTS OF LAHNDA OR WESTERN PANJABI LANGUAGE.
+90,Thali,thal1241,1903,MAP ILLUSTTRATING THE DIALECTS AND SUB-DIALECTS OF LAHNDA OR WESTERN PANJABI LANGUAGE.
+91,Multani,mult1243,1903,MAP ILLUSTTRATING THE DIALECTS AND SUB-DIALECTS OF LAHNDA OR WESTERN PANJABI LANGUAGE.
+92,Bahawalpuri,baha1254,1903,MAP ILLUSTTRATING THE DIALECTS AND SUB-DIALECTS OF LAHNDA OR WESTERN PANJABI LANGUAGE.
+93,Juang,juan1238,1903,Map of the DIALECTS OF THE MUNDA FAMILY
+94,Kharia,khar1287,1903,Map of the DIALECTS OF THE MUNDA FAMILY
+95,Kurku,kork1243,1903,Map of the DIALECTS OF THE MUNDA FAMILY
+96,Savara,sora1254,1903,Map of the DIALECTS OF THE MUNDA FAMILY
+97,Mundari,mund1320,1903,Map of the DIALECTS OF THE MUNDA FAMILY
+98,Korwa,korw1242,1903,Map of the DIALECTS OF THE MUNDA FAMILY
+99,Brijia,brij1240,1903,Map of the DIALECTS OF THE MUNDA FAMILY
+100,Mundari,mund1320,1903,Map of the DIALECTS OF THE MUNDA FAMILY
+101,Karmali,karm1240,1903,Map of the DIALECTS OF THE MUNDA FAMILY
+102,Karmali,karm1240,1903,Map of the DIALECTS OF THE MUNDA FAMILY
+103,Karmali,karm1240,1903,Map of the DIALECTS OF THE MUNDA FAMILY
+104,Santali,sant1410,1903,Map of the DIALECTS OF THE MUNDA FAMILY
+105,Karmali,karm1240,1903,Map of the DIALECTS OF THE MUNDA FAMILY
+106,Birhar,birh1242,1903,Map of the DIALECTS OF THE MUNDA FAMILY
+107,Karmali,karm1240,1903,Map of the DIALECTS OF THE MUNDA FAMILY
+108,Kachchhi,kach1277,1903,MAP ILLUSTRATING THE AREA IN WHICH THE SINDHI LANGUAGE IS SPOKEN
+109,Lari,vicc1238,1903,MAP ILLUSTRATING THE AREA IN WHICH THE SINDHI LANGUAGE IS SPOKEN
+110,Vicholi,,1903,MAP ILLUSTRATING THE AREA IN WHICH THE SINDHI LANGUAGE IS SPOKEN
+111,Tharili,thar1281,1903,MAP ILLUSTRATING THE AREA IN WHICH THE SINDHI LANGUAGE IS SPOKEN
+112,Lasi,lasi1242,1903,MAP ILLUSTRATING THE AREA IN WHICH THE SINDHI LANGUAGE IS SPOKEN
+113,Siraiki,sera1259,1903,MAP ILLUSTRATING THE AREA IN WHICH THE SINDHI LANGUAGE IS SPOKEN
+114,Jaunsari,jaun1243,1903,Map Illustrating the WESTERN PAHARI LANGUAGES AND DIALECTS.
+115,Sirmauri,sirm1239,1903,Map Illustrating the WESTERN PAHARI LANGUAGES AND DIALECTS.
+116,Baghati,bagh1249,1903,Map Illustrating the WESTERN PAHARI LANGUAGES AND DIALECTS.
+117,Kiuthali,kiun1241,1903,Map Illustrating the WESTERN PAHARI LANGUAGES AND DIALECTS.
+118,Kului Group,kull1236,1903,Map Illustrating the WESTERN PAHARI LANGUAGES AND DIALECTS.
+119, Inner Siraji,inne1243,1903,Map Illustrating the WESTERN PAHARI LANGUAGES AND DIALECTS.
+120,Kullui,kllu1238,1903,Map Illustrating the WESTERN PAHARI LANGUAGES AND DIALECTS.
+121,Mandeali,mand1409,1903,Map Illustrating the WESTERN PAHARI LANGUAGES AND DIALECTS.
+122, Satlaj Group,uppe1403,1903,Map Illustrating the WESTERN PAHARI LANGUAGES AND DIALECTS.
+123,Gadi,gadd1242,1903,Map Illustrating the WESTERN PAHARI LANGUAGES AND DIALECTS.
+124,Chameali,cham1307,1903,Map Illustrating the WESTERN PAHARI LANGUAGES AND DIALECTS.
+125,Churahi,chur1258,1903,Map Illustrating the WESTERN PAHARI LANGUAGES AND DIALECTS.
+126,Pangwali,pang1282,1903,Map Illustrating the WESTERN PAHARI LANGUAGES AND DIALECTS.
+127,Bhadrawahi,bhad1241,1903,Map Illustrating the WESTERN PAHARI LANGUAGES AND DIALECTS.
+128,Padari,pada1256,1903,Map Illustrating the WESTERN PAHARI LANGUAGES AND DIALECTS.
+129,Chutiya,deor1238,1903,Map of the LANGUAGES & DIALECTS OF THE BARA OR BODO GROUP OF THE TIBETO-BURMAN FAMILY
+130,Chutiya,deor1238,1903,Map of the LANGUAGES & DIALECTS OF THE BARA OR BODO GROUP OF THE TIBETO-BURMAN FAMILY
+131,Dimasa,dima1251,1903,Map of the LANGUAGES & DIALECTS OF THE BARA OR BODO GROUP OF THE TIBETO-BURMAN FAMILY
+132,Bara,bodo1269,1903,Map of the LANGUAGES & DIALECTS OF THE BARA OR BODO GROUP OF THE TIBETO-BURMAN FAMILY
+133,Garo,garo1247,1903,Map of the LANGUAGES & DIALECTS OF THE BARA OR BODO GROUP OF THE TIBETO-BURMAN FAMILY
+134,Rabha,rabh1238,1903,Map of the LANGUAGES & DIALECTS OF THE BARA OR BODO GROUP OF THE TIBETO-BURMAN FAMILY
+135,Lalung,tiwa1253,1903,Map of the LANGUAGES & DIALECTS OF THE BARA OR BODO GROUP OF THE TIBETO-BURMAN FAMILY
+136,Hoja,dima1251,1903,Map of the LANGUAGES & DIALECTS OF THE BARA OR BODO GROUP OF THE TIBETO-BURMAN FAMILY
+137,Achik Garo,achi1255,1903,Map of the LANGUAGES & DIALECTS OF THE BARA OR BODO GROUP OF THE TIBETO-BURMAN FAMILY
+138,Tipura,kokb1239,1903,Map of the LANGUAGES & DIALECTS OF THE BARA OR BODO GROUP OF THE TIBETO-BURMAN FAMILY
+139,Rabha,rabh1238,1903,Map of the LANGUAGES & DIALECTS OF THE BARA OR BODO GROUP OF THE TIBETO-BURMAN FAMILY
+140,Bara & Rabha,bodo1279,1903,Map of the LANGUAGES & DIALECTS OF THE BARA OR BODO GROUP OF THE TIBETO-BURMAN FAMILY
+141,Garo,garo1247,1903,Map of the LANGUAGES & DIALECTS OF THE BARA OR BODO GROUP OF THE TIBETO-BURMAN FAMILY
+142,Bara,bodo1269,1903,Map of the LANGUAGES & DIALECTS OF THE BARA OR BODO GROUP OF THE TIBETO-BURMAN FAMILY
+143,Mech or Bara,bodo1269,1903,Map of the LANGUAGES & DIALECTS OF THE BARA OR BODO GROUP OF THE TIBETO-BURMAN FAMILY
+144,Abeng Garo,aben1248,1903,Map of the LANGUAGES & DIALECTS OF THE BARA OR BODO GROUP OF THE TIBETO-BURMAN FAMILY
+145,Mech,mech1238,1903,Map of the LANGUAGES & DIALECTS OF THE BARA OR BODO GROUP OF THE TIBETO-BURMAN FAMILY
+146,Garo,garo1247,1903,Map of the LANGUAGES & DIALECTS OF THE BARA OR BODO GROUP OF THE TIBETO-BURMAN FAMILY
+147,Mech & Garo,bodo1279,1903,Map of the LANGUAGES & DIALECTS OF THE BARA OR BODO GROUP OF THE TIBETO-BURMAN FAMILY
+148,Mech,mech1238,1903,Map of the LANGUAGES & DIALECTS OF THE BARA OR BODO GROUP OF THE TIBETO-BURMAN FAMILY
+149,Mech,mech1238,1903,Map of the LANGUAGES & DIALECTS OF THE BARA OR BODO GROUP OF THE TIBETO-BURMAN FAMILY
+150,Khamti,kham1290,1903,Map SHOWING THE LOCALITIES IN WHICH THE TAI LANGUAGES OF BRITISH INDIA ARE SPOKEN
+151,Southern Shan,shan1277,1903,Map SHOWING THE LOCALITIES IN WHICH THE TAI LANGUAGES OF BRITISH INDIA ARE SPOKEN
+152,Northwestern Shan,shan1277,1903,Map SHOWING THE LOCALITIES IN WHICH THE TAI LANGUAGES OF BRITISH INDIA ARE SPOKEN
+153,Northern Shan,shan1277,1903,Map SHOWING THE LOCALITIES IN WHICH THE TAI LANGUAGES OF BRITISH INDIA ARE SPOKEN
+154,Khamti,kham1290,1903,Map SHOWING THE LOCALITIES IN WHICH THE TAI LANGUAGES OF BRITISH INDIA ARE SPOKEN
+155,Khamti,kham1290,1903,Map SHOWING THE LOCALITIES IN WHICH THE TAI LANGUAGES OF BRITISH INDIA ARE SPOKEN
+156,Khamti,kham1290,1903,Map indicating the localities in India in which Siamese-Chinese langfuages are spoken
+157,Khamti,kham1290,1903,Map indicating the localities in India in which Siamese-Chinese langfuages are spoken
+158,Phakas,phak1238,1903,Map indicating the localities in India in which Siamese-Chinese langfuages are spoken
+159,Aiton,aito1238,1903,Map indicating the localities in India in which Siamese-Chinese langfuages are spoken
+160,"Northern Shan, Southern Shan and Lü & Khün",shan1276,1903,Map indicating the localities in India in which Siamese-Chinese langfuages are spoken
+161,Karen,kare1337,1903,Map indicating the localities in India in which Siamese-Chinese langfuages are spoken
+162,Tamil,tami1289,1903,Map showing the distribution of the Dravidian Languages of India
+163,Tamil,tami1289,1903,Map showing the distribution of the Dravidian Languages of India
+164,Kanarese,nucl1305,1903,Map showing the distribution of the Dravidian Languages of India
+165,Toda-Kota,tami1292,1903,Map showing the distribution of the Dravidian Languages of India
+166,Toda-Kota,tami1292,1903,Map showing the distribution of the Dravidian Languages of India
+167,Tulu,tulu1258,1903,Map showing the distribution of the Dravidian Languages of India
+168,Malayalam,mala1464,1903,Map showing the distribution of the Dravidian Languages of India
+169,Malayalam,mala1464,1903,Map showing the distribution of the Dravidian Languages of India
+170,Maito,saur1249,1903,Map showing the distribution of the Dravidian Languages of India
+171,Kui,kuii1252,1903,Map showing the distribution of the Dravidian Languages of India
+172,Kurukh,kuru1301,1903,Map showing the distribution of the Dravidian Languages of India
+173,Gondi,nort2702,1903,Map showing the distribution of the Dravidian Languages of India
+174,Gondi,nort2702,1903,Map showing the distribution of the Dravidian Languages of India
+175,Gondi,nort2702,1903,Map showing the distribution of the Dravidian Languages of India
+176,Gondi,nort2702,1903,Map showing the distribution of the Dravidian Languages of India
+177,Gondi,nort2702,1903,Map showing the distribution of the Dravidian Languages of India
+178,Gondi,nort2702,1903,Map showing the distribution of the Dravidian Languages of India
+179,Gondi,nort2702,1903,Map showing the distribution of the Dravidian Languages of India
+180,Gondi,nort2702,1903,Map showing the distribution of the Dravidian Languages of India
+181,Kolami,nort2699,1903,Map showing the distribution of the Dravidian Languages of India
+182,Gondi,nort2702,1903,Map showing the distribution of the Dravidian Languages of India
+183,Brahui,brah1256,1903,Map showing the distribution of the Dravidian Languages of India
+184,Telugu,telu1262,1903,Map showing the distribution of the Dravidian Languages of India
+185,"Sema, Thukumi & Yachumi",anga1312,1903,Map of the LANGUAGES AND DIALECTS OF THE NAGA GROUP OF THE TIBETO-BURMAN FAMILY
+186,Kezhama,khez1235,1903,Map of the LANGUAGES AND DIALECTS OF THE NAGA GROUP OF THE TIBETO-BURMAN FAMILY
+187,Maring,mari1416,1903,Map of the LANGUAGES AND DIALECTS OF THE NAGA GROUP OF THE TIBETO-BURMAN FAMILY
+188,Chakrima Angami,chak1268,1903,Map of the LANGUAGES AND DIALECTS OF THE NAGA GROUP OF THE TIBETO-BURMAN FAMILY
+189,Mongsen & Chungli Ao,aona1235,1903,Map of the LANGUAGES AND DIALECTS OF THE NAGA GROUP OF THE TIBETO-BURMAN FAMILY
+190,Lhota,loth1237,1903,Map of the LANGUAGES AND DIALECTS OF THE NAGA GROUP OF THE TIBETO-BURMAN FAMILY
+191,Rengma,sout2732,1903,Map of the LANGUAGES AND DIALECTS OF THE NAGA GROUP OF THE TIBETO-BURMAN FAMILY
+192,Sopvoma,maon1238,1903,Map of the LANGUAGES AND DIALECTS OF THE NAGA GROUP OF THE TIBETO-BURMAN FAMILY
+193,Tengima Angami,teng1262,1903,Map of the LANGUAGES AND DIALECTS OF THE NAGA GROUP OF THE TIBETO-BURMAN FAMILY
+194,Maram,mara1379,1903,Map of the LANGUAGES AND DIALECTS OF THE NAGA GROUP OF THE TIBETO-BURMAN FAMILY
+195,Kabui,rong1266,1903,Map of the LANGUAGES AND DIALECTS OF THE NAGA GROUP OF THE TIBETO-BURMAN FAMILY
+196,Engkhang Mikir,karb1241,1903,Map of the LANGUAGES AND DIALECTS OF THE NAGA GROUP OF THE TIBETO-BURMAN FAMILY
+197,Empeo & Kuki,zeme1240,1903,Map of the LANGUAGES AND DIALECTS OF THE NAGA GROUP OF THE TIBETO-BURMAN FAMILY
+198,Mikir,karb1241,1903,Map of the LANGUAGES AND DIALECTS OF THE NAGA GROUP OF THE TIBETO-BURMAN FAMILY
+199,Amri Mikir,amri1238,1903,Map of the LANGUAGES AND DIALECTS OF THE NAGA GROUP OF THE TIBETO-BURMAN FAMILY
+200,Lalung,tiwa1253,1903,Map of the LANGUAGES AND DIALECTS OF THE NAGA GROUP OF THE TIBETO-BURMAN FAMILY
+201,Sarikoli,sari1246,1903,MAP ILLUSTRATING THE LOCALITIES IN WHICH THE GHALCHAH LANGUAGES ARE SPOKEN
+202,Wakhi,wakh1245,1903,MAP ILLUSTRATING THE LOCALITIES IN WHICH THE GHALCHAH LANGUAGES ARE SPOKEN
+203,Munjani,munj1244,1903,MAP ILLUSTRATING THE LOCALITIES IN WHICH THE GHALCHAH LANGUAGES ARE SPOKEN
+204,Ishkashmi,ishk1246,1903,MAP ILLUSTRATING THE LOCALITIES IN WHICH THE GHALCHAH LANGUAGES ARE SPOKEN
+205,Shighni,shug1248,1903,MAP ILLUSTRATING THE LOCALITIES IN WHICH THE GHALCHAH LANGUAGES ARE SPOKEN
+206,Ormuri,ormu1247,1903,MAP ILLUSTRATING THE DISTRIBUTION OF THE PASHTO AND ORMURI LANGUAGES.
+207,Ormuri,ormu1247,1903,MAP ILLUSTRATING THE DISTRIBUTION OF THE PASHTO AND ORMURI LANGUAGES.
+208,Ormuri,ormu1247,1903,MAP ILLUSTRATING THE DISTRIBUTION OF THE PASHTO AND ORMURI LANGUAGES.
+209,Pakhto,nort2646,1903,MAP ILLUSTRATING THE DISTRIBUTION OF THE PASHTO AND ORMURI LANGUAGES.
+210,Pashto,nucl1276,1903,MAP ILLUSTRATING THE DISTRIBUTION OF THE PASHTO AND ORMURI LANGUAGES.
+211,Pashto,nucl1276,1903,MAP ILLUSTRATING THE DISTRIBUTION OF THE PASHTO AND ORMURI LANGUAGES.
+212,Pashto,nucl1276,1903,MAP ILLUSTRATING THE DISTRIBUTION OF THE PASHTO AND ORMURI LANGUAGES.
+213,Pashto,nucl1276,1903,MAP ILLUSTRATING THE DISTRIBUTION OF THE PASHTO AND ORMURI LANGUAGES.
+214,Pashto,nucl1276,1903,MAP ILLUSTRATING THE DISTRIBUTION OF THE PASHTO AND ORMURI LANGUAGES.
+215,Pashto,nucl1276,1903,MAP ILLUSTRATING THE DISTRIBUTION OF THE PASHTO AND ORMURI LANGUAGES.
+216,Eastern,beng1280,1903,MAP Illustrating the dialects and Sub-dialects of the Bengali language
+217,Chakma,chak1266,1903,MAP Illustrating the dialects and Sub-dialects of the Bengali language
+218,Southeastern,beng1280,1903,MAP Illustrating the dialects and Sub-dialects of the Bengali language
+219,Eastern,beng1280,1903,MAP Illustrating the dialects and Sub-dialects of the Bengali language
+220,Northern Central,beng1280,1903,MAP Illustrating the dialects and Sub-dialects of the Bengali language
+221,Western,beng1280,1903,MAP Illustrating the dialects and Sub-dialects of the Bengali language
+222,Southwestern,beng1280,1903,MAP Illustrating the dialects and Sub-dialects of the Bengali language
+223,Rajbangsi,beng1280,1903,MAP Illustrating the dialects and Sub-dialects of the Bengali language
+224,East Central,beng1280,1903,MAP Illustrating the dialects and Sub-dialects of the Bengali language
+225,Dogri,dogr1250,1903,Map illustrating the DIALECTS & SUB-DIALECTS OF THE PUNJABI ANGUAGE.
+226,Kangri,kang1280,1903,Map illustrating the DIALECTS & SUB-DIALECTS OF THE PUNJABI ANGUAGE.
+227,Panbjabi,panj1256,1903,Map illustrating the DIALECTS & SUB-DIALECTS OF THE PUNJABI ANGUAGE.
+228,Majhi,majh1252,1903,Map illustrating the DIALECTS & SUB-DIALECTS OF THE PUNJABI ANGUAGE.
+229,Doabi,doab1238,1903,Map illustrating the DIALECTS & SUB-DIALECTS OF THE PUNJABI ANGUAGE.
+230,Malwai,malw1235,1903,Map illustrating the DIALECTS & SUB-DIALECTS OF THE PUNJABI ANGUAGE.
+231,Powadhi,powa1244,1903,Map illustrating the DIALECTS & SUB-DIALECTS OF THE PUNJABI ANGUAGE.
+232,Rathi,bath1239,1903,Map illustrating the DIALECTS & SUB-DIALECTS OF THE PUNJABI ANGUAGE.
+233,Bhattiani,bhat1264,1903,Map illustrating the DIALECTS & SUB-DIALECTS OF THE PUNJABI ANGUAGE.
+234,Where Dardic influence is still prominent,,1903,India
+235,Where Dardic influence is still prominent,,1903,India
+236,Where Dardic influence is still prominent,,1903,India
+237,Where Dardic influence is still prominent,,1903,India
+238,Where Dardic influence is still prominent,,1903,India
+239,Where Dardic languages are now spoken (at time of map creation),,1903,India
+240,Mon,monn1252,1903,Map indicating the localities in which Austro-Asiatic and Pronominalised Himalayan Languages are spoken in India
+241,Khasi,khas1269,1903,Map indicating the localities in which Austro-Asiatic and Pronominalised Himalayan Languages are spoken in India
+242,Munda,mund1320,1903,Map indicating the localities in which Austro-Asiatic and Pronominalised Himalayan Languages are spoken in India
+243,Kharia,khar1287,1903,Map indicating the localities in which Austro-Asiatic and Pronominalised Himalayan Languages are spoken in India
+244,Munda,mund1320,1903,Map indicating the localities in which Austro-Asiatic and Pronominalised Himalayan Languages are spoken in India
+245,Rangkas,rang1266,1903,Map indicating the localities in which Austro-Asiatic and Pronominalised Himalayan Languages are spoken in India
+246,Rangkas,rang1266,1903,Map indicating the localities in which Austro-Asiatic and Pronominalised Himalayan Languages are spoken in India
+247,Munda,mund1320,1903,Map indicating the localities in which Austro-Asiatic and Pronominalised Himalayan Languages are spoken in India
+248,"Rangkas, Darmya, Byangsi, Chaudangsi",pith1234,1903,"Map illustrating the relative positions of the Munda, of the complex pronominalised Himalayan Tibeto-Burman, & of the Indian languages connected with Mon-Khmer."
+249,Rangkas,rang1266,1903,"Map illustrating the relative positions of the Munda, of the complex pronominalised Himalayan Tibeto-Burman, & of the Indian languages connected with Mon-Khmer."
+250,Mon,monn1252,1903,"Map illustrating the relative positions of the Munda, of the complex pronominalised Himalayan Tibeto-Burman, & of the Indian languages connected with Mon-Khmer."
+251,Khassi,khas1269,1903,"Map illustrating the relative positions of the Munda, of the complex pronominalised Himalayan Tibeto-Burman, & of the Indian languages connected with Mon-Khmer."
+252,Juang,juan1238,1903,"Map illustrating the relative positions of the Munda, of the complex pronominalised Himalayan Tibeto-Burman, & of the Indian languages connected with Mon-Khmer."
+253,Kherwari,kher1245,1903,"Map illustrating the relative positions of the Munda, of the complex pronominalised Himalayan Tibeto-Burman, & of the Indian languages connected with Mon-Khmer."
+254,Savara,sora1254,1903,"Map illustrating the relative positions of the Munda, of the complex pronominalised Himalayan Tibeto-Burman, & of the Indian languages connected with Mon-Khmer."
+255,Kurku,kork1243,1903,"Map illustrating the relative positions of the Munda, of the complex pronominalised Himalayan Tibeto-Burman, & of the Indian languages connected with Mon-Khmer."
+256,Awadhi,awad1243,1903,DIALECTS & SUB DIALECTS OF THE EASTERN HINDI LANGUAGE
+257,Bagheli,bagh1251,1903,DIALECTS & SUB DIALECTS OF THE EASTERN HINDI LANGUAGE
+258,Tirhari,tirh1246,1903,DIALECTS & SUB DIALECTS OF THE EASTERN HINDI LANGUAGE
+259,Gahora,gaho1238,1903,DIALECTS & SUB DIALECTS OF THE EASTERN HINDI LANGUAGE
+260,Chattisgarhi,chha1249,1903,DIALECTS & SUB DIALECTS OF THE EASTERN HINDI LANGUAGE
+261,Surgujia,surg1246,1903,DIALECTS & SUB DIALECTS OF THE EASTERN HINDI LANGUAGE
+262,Standard Assamese,stan1302,1903,MAP showing the area in which the Assamese language and its dialects are spoken
+263,Western,west2383,1903,MAP showing the area in which the Assamese language and its dialects are spoken
+264,Bhil,bhil1254,1903,Map ILLUSTRATING THE DISRIBUTION OF THE BHIL DIALECTS AND OF KHANDESI
+265,Khandesi,khan1272,1903,Map ILLUSTRATING THE DISRIBUTION OF THE BHIL DIALECTS AND OF KHANDESI
+266,Nimadi,nima1243,1903,Map ILLUSTRATING THE DISRIBUTION OF THE BHIL DIALECTS AND OF KHANDESI
+267,Khassi,khas1269,1903,Map SHOWING THE AREA IN WHICH THE KHASSI LANGUAGE AND ITS DIALECTS ARE SPOKEN
+268,Kho-War,khow1242,1903,MAP ILLUSTRATING THE AREA IN WHICH THE LANGUAGES OF THE DARDIC SUB-FAMILY ARE SPOKEN
+269,Shina,shin1264,1903,MAP ILLUSTRATING THE AREA IN WHICH THE LANGUAGES OF THE DARDIC SUB-FAMILY ARE SPOKEN
+270,Kohistani,dirs1236,1903,MAP ILLUSTRATING THE AREA IN WHICH THE LANGUAGES OF THE DARDIC SUB-FAMILY ARE SPOKEN
+271,Kashmiri,kash1277,1903,MAP ILLUSTRATING THE AREA IN WHICH THE LANGUAGES OF THE DARDIC SUB-FAMILY ARE SPOKEN
