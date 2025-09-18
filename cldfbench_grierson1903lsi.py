@@ -49,7 +49,7 @@ class Dataset(pyglottography.Dataset):
 
                 fid += 1
                 props = {
-                    'id': fid,
+                    'id': str(fid),
                     'name': name,
                     'glottocode': gc,
                     'year': '1903',

@@ -37,13 +37,13 @@ id,name,glottocode,year,map_name_full
 36,Naga Group,aoic1235,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
 37,Naga Group,aoic1235,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
 38,Kuki-Chin Group,kuki1246,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
-39,Bara Group,bodo1269,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
-40,Bara Group,bodo1269,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
-41,Bara Group,bodo1269,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
+39,Bara Group,boro1284,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
+40,Bara Group,boro1284,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
+41,Bara Group,boro1284,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
 42,Kachin Group,kach1280,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
-43,Bara Group,bodo1269,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
+43,Bara Group,boro1284,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
 44,Himalayan Group,hima1249,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
-45,Bara Group,bodo1269,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
+45,Bara Group,boro1284,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
 46,Central Tibetan,cent2346,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
 47,West Tibetan,laha1255,1903,Map showing the approximate positions of the various Groups of the Tibeto-Burman Sub-Family
 48,Kachin (fringe area),kach1280,1903,Map of the DIALECTS OF THE KACHIN GROUP OF THE TIBETO-BURMAN FAMILY
@@ -51,7 +51,7 @@ id,name,glottocode,year,map_name_full
 50,Khamti,kham1290,1903,Map of the DIALECTS OF THE KACHIN GROUP OF THE TIBETO-BURMAN FAMILY
 51,Khamti,kham1290,1903,Map of the DIALECTS OF THE KACHIN GROUP OF THE TIBETO-BURMAN FAMILY
 52,Khas-Kura,east1436,1903,The Indo-Aryan Languages
-53,Rajasthani,marw1256,1903,The Indo-Aryan Languages
+53,Rajasthani,raja1256,1903,The Indo-Aryan Languages
 54,Panjabi,panj1256,1903,The Indo-Aryan Languages
 55,Central Pahari,cent1977,1903,The Indo-Aryan Languages
 56,Western Pahari,cent1977,1903,The Indo-Aryan Languages

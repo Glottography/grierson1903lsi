@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/Glottography/grierson1903lsi",
             "rdf:type": "prov:Entity",
-            "dc:created": "d021f4d",
+            "dc:created": "6c1ba96",
             "dc:title": "Repository"
         },
         {
@@ -95,7 +95,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 118,
+            "dc:extent": 117,
             "tableSchema": {
                 "columns": [
                     {
