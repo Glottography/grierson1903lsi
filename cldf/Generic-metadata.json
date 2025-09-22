@@ -9,6 +9,7 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
     "dc:identifier": "https://dsal.uchicago.edu/books/lsi/",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+    "dc:source": "sources.bib",
     "dc:spatial": "westlimit=61.1; southlimit=7.8; eastlimit=101.2; northlimit=38.6",
     "dc:title": "Glottography dataset derived from Grierson's Linguistic Survey of India",
     "dcat:accessURL": "https://github.com/Glottography/grierson1903lsi",
@@ -16,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Glottography/grierson1903lsi",
             "rdf:type": "prov:Entity",
-            "dc:created": "6c1ba96",
+            "dc:created": "951f9ca",
             "dc:title": "Repository"
         },
         {
@@ -41,7 +42,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 3,
+            "dc:extent": 96,
             "tableSchema": {
                 "columns": [
                     {
@@ -214,7 +215,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
             "dc:description": "We list the individual features from the source dataset as contributions in order to preserve the original metadata and a point of reference for the aggregated shapes.",
-            "dc:extent": 271,
+            "dc:extent": 294,
             "tableSchema": {
                 "columns": [
                     {
@@ -275,22 +276,48 @@
                         "name": "Source"
                     },
                     {
-                        "dc:description": "Features are linked to GeoJSON files that store the geo data.",
+                        "dc:description": "Contributions of type 'feature' are linked to GeoJSON files that store the geo data.  can be related to various kinds of media. Contributions of type 'map' are linked to the corresponding scans of maps and geo-data derived from these.",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaReference",
-                        "name": "Media_ID"
+                        "separator": " ",
+                        "name": "Media_IDs"
                     },
                     {
-                        "dc:description": "Name of the map as given in the source publication.",
-                        "name": "Map_Name"
+                        "dc:description": "There are two types of contributions: Individual geo-features as depicted in the source and images of maps.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "map|feature"
+                        },
+                        "name": "Type"
+                    },
+                    {
+                        "dc:description": "Contributions of type 'feature' link to the maps on which they appear.",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
+                        "separator": " ",
+                        "name": "Map_IDs"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "URL"
                     }
                 ],
                 "foreignKeys": [
                     {
                         "columnReference": [
-                            "Media_ID"
+                            "Media_IDs"
                         ],
                         "reference": {
                             "resource": "media.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Map_IDs"
+                        ],
+                        "reference": {
+                            "resource": "contributions.csv",
                             "columnReference": [
                                 "ID"
                             ]
