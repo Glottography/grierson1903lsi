@@ -1,11 +1,13 @@
 import pathlib
 import functools
+import typing
 
 from csvw.dsv import UnicodeWriter
 from cldfgeojson.create import feature_collection
 from clldutils.jsonlib import load, dump
 import pyglottography
-
+from pyglottography.dataset import FeatureSpec
+from pyglottography.util import Feature
 
 FIX_GLOTTOCODES = {
     'godw1240': 'godw1241',
@@ -107,12 +109,25 @@ class Dataset(pyglottography.Dataset):
         assert all(pp.exists() for pp in [geotiff, web,bounds])
         return (geotiff, web, bounds)
 
+    def make_contribution_feature(self,
+                                  args,
+                                  pid: str,
+                                  gc: typing.Optional[str],
+                                  f: Feature,
+                                  fmd: FeatureSpec,
+                                  map_ids: typing.List[str]) -> dict:
+        res = pyglottography.Dataset.make_contribution_feature(self, args, pid, gc, f, fmd, map_ids)
+        res['Source'] = res['Source'] + ['llmap']
+        return res
+
+
     def make_contribution_map(self, args, maps, md, **kw):
         res = pyglottography.Dataset.make_contribution_map(self, args, maps, md)
         assert 'LL_MAP_DIR' in md
         if md['LL_MAP_DIR'] and self.raw_dir.joinpath('geo', md['LL_MAP_DIR']).exists():
             geotiff, web, bounds = self.georeferenced_files(
                 self.raw_dir.joinpath('geo', md['LL_MAP_DIR']))
+            res['Source'].append('llmap')
         else:
             assert self.raw_dir.joinpath('geo', 'dsal_maps', res['ID'] + '_modified.tif').exists()
             geotiff, web, bounds = self.georeferenced_files(
