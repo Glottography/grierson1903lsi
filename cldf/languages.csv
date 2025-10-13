@@ -1,4 +1,55 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+aben1248,A'beng,,,,aben1248,,144,dialect,Sino-Tibetan,dialects
+achi1255,A'chick,,,,achi1255,,137,dialect,Sino-Tibetan,dialects
+avan1234,Avankari Hindko,,,,avan1234,,86,dialect,Indo-European,dialects
+badh1238,Badhani,,,,badh1238,,10,dialect,Indo-European,dialects
+bagh1249,Baghati,,31.194,77.0471,bagh1249,,116,dialect,Indo-European,dialects
+baha1254,Bahawalpuri,,,,baha1254,,92,dialect,Indo-European,dialects
+bath1239,Rathi (Panjabi),,,,bath1239,,232,dialect,Indo-European,dialects
+bhat1264,Bhattiyani,,,,bhat1264,,233,dialect,Indo-European,dialects
+brij1240,Brijia,,,,brij1240,,99,dialect,Austroasiatic,dialects
+cent2408,Central Siraiki,,,,cent2408,,91,dialect,Indo-European,dialects
+chak1268,Chakroma,,,,chak1268,,188,dialect,Sino-Tibetan,dialects
+chib1247,Chibhali,,,,chib1247,,83 84,dialect,Indo-European,dialects
+dess1238,Dessaulya,,,,dess1238,,11,dialect,Indo-European,dialects
+doab1238,Doabi,,,,doab1238,,229,dialect,Indo-European,dialects
+gaho1238,Gahore,,,,gaho1238,,251,dialect,Indo-European,dialects
+gheb1234,Ghebi,,,,gheb1234,,87,dialect,Indo-European,dialects
+inne1243,Inner Siraji,,,,inne1243,,119,dialect,Indo-European,dialects
+karm1240,Karmali,,,,karm1240,,101 102 103 105 107,dialect,Austroasiatic,dialects
+kish1245,Kishtwari,,,,kish1245,,30,dialect,Indo-European,dialects
+kiun1241,Kiunthali,,,,kiun1241,,117,dialect,Indo-European,dialects
+kllu1238,Kullui,,,,kllu1238,,120,dialect,Indo-European,dialects
+lohb1238,Lohbya,,,,lohb1238,,13,dialect,Indo-European,dialects
+lowe1245,Lower Mahasu Pahari,,,,lowe1245,,116 117,dialect,Indo-European,dialects
+majh1251,Majh-Kumaiya,,,,majh1251,,9,dialect,Indo-European,dialects
+majh1252,Majhi (Panjabi),,,,majh1252,,228,dialect,Indo-European,dialects
+malw1235,Malwa,,,,malw1235,,230,dialect,Indo-European,dialects
+mech1238,Mech,,,,mech1238,,145 148 149,dialect,Sino-Tibetan,dialects
+mult1243,Multani,,,,mult1243,,91,dialect,Indo-European,dialects
+nagp1247,Nagpuriya,,,,nagp1247,,12,dialect,Indo-European,dialects
+nort2656,Northern Standard Bhojpuri,,,,nort2656,,2,dialect,Indo-European,dialects
+pada1256,Padari,,,,pada1256,,128,dialect,Indo-European,dialects
+paha1252,Pahari,,,,paha1252,,81,dialect,Indo-European,dialects
+pogu1238,Poguli,,,,pogu1238,,31,dialect,Indo-European,dialects
+poth1238,Pothwari,,,,poth1238,,80,dialect,Indo-European,dialects
+powa1244,Powadhi,,,,powa1244,,231,dialect,Indo-European,dialects
+punc1240,Punchic,,,,punc1240,,82,dialect,Indo-European,dialects
+rath1241,Rathi,,,,rath1241,,17,dialect,Indo-European,dialects
+sala1263,Salani,,,,sala1263,,14,dialect,Indo-European,dialects
+sout2661,Southern Standard Bhojpuri,,,,sout2661,,4,dialect,Indo-European,dialects
+srin1238,Srinagaria,,,,srin1238,,15,dialect,Indo-European,dialects
+stan1302,Standard Assamese,,,,stan1302,,254,dialect,Indo-European,dialects
+surg1246,Surgujia,,,,surg1246,,253,dialect,Indo-European,dialects
+tehr1243,Tehri,,,,tehr1243,,16,dialect,Indo-European,dialects
+teng1262,Tengima,,,,teng1262,,193,dialect,Sino-Tibetan,dialects
+thal1241,Thali,,,,thal1241,,90,dialect,Indo-European,dialects
+thar1281,Thareli,,,,thar1281,,111,dialect,Indo-European,dialects
+tirh1246,Tirhari,,,,tirh1246,,250,dialect,Indo-European,dialects
+uppe1403,Upper Mahasu Pahari,,,,uppe1403,,122,dialect,Indo-European,dialects
+vicc1238,Viccholi,,,,vicc1238,,109,dialect,Indo-European,dialects
+west2379,Western Standard Bhojpuri,,,,west2379,,3,dialect,Indo-European,dialects
+west2383,Western Assamese,,,,west2383,,255,dialect,Indo-European,dialects
 aito1238,Aiton,,26.5145,92.3169,aito1238,,159,language,Tai-Kadai,languages
 amri1238,Amri Karbi,,26.024,91.482,amri1238,,199,language,Sino-Tibetan,languages
 anga1288,Angami Naga,,25.6841,93.8668,anga1288,,188 193,language,Sino-Tibetan,languages

@@ -93,5 +93,6 @@ lsi-v10-472_tif,map.tif,Georeferenced GeoTIFF image of the map for crs EPSG:4326
 lsi-v10-472_jpg,web.jpg,JPG translation of the georeferenced image reprojected to webmercator,image/jpeg,maps/lsi-v10-472/web.jpg,
 lsi-v10-472_geojson,web.jpg.bounds.geojson,The bounds of the JPG image of the map,application/geo+json,maps/lsi-v10-472/web.jpg.bounds.geojson,
 features,Areas depicted in the source,,application/geo+json,features.geojson,
+dialects,Speaker areas for dialects,"Speaker areas aggregated for Glottolog dialect-level languoids, color-coded by family.",application/geo+json,dialects.geojson,
 languages,Speaker areas for languages,"Speaker areas aggregated for Glottolog language-level languoids, color-coded by family.",application/geo+json,languages.geojson,
 families,Speaker areas for families,"Speaker areas aggregated for Glottolog family-level languoids, color-coded by family.",application/geo+json,families.geojson,
