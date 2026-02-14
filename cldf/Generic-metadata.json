@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Glottography/grierson1903lsi",
             "rdf:type": "prov:Entity",
-            "dc:created": "ccccce4",
+            "dc:created": "v1.0",
             "dc:title": "Repository"
         },
         {
@@ -215,7 +215,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
             "dc:description": "We list the individual features from the source dataset as contributions in order to preserve the original metadata and a point of reference for the aggregated shapes.",
-            "dc:extent": 294,
+            "dc:extent": 239,
             "tableSchema": {
                 "columns": [
                     {

@@ -7,7 +7,7 @@ from cldfgeojson.create import feature_collection
 from clldutils.jsonlib import load, dump
 import pyglottography
 from pyglottography.dataset import FeatureSpec
-from pyglottography.util import Feature
+from pyglottography.util import ReadonlyFeature
 
 FIX_GLOTTOCODES = {
     'godw1240': 'godw1241',
@@ -113,13 +113,12 @@ class Dataset(pyglottography.Dataset):
                                   args,
                                   pid: str,
                                   gc: typing.Optional[str],
-                                  f: Feature,
+                                  f: ReadonlyFeature,
                                   fmd: FeatureSpec,
                                   map_ids: typing.List[str]) -> dict:
         res = pyglottography.Dataset.make_contribution_feature(self, args, pid, gc, f, fmd, map_ids)
         res['Source'] = res['Source'] + ['llmap']
         return res
-
 
     def make_contribution_map(self, args, maps, md, **kw):
         res = pyglottography.Dataset.make_contribution_map(self, args, maps, md)
